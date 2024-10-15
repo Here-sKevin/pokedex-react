@@ -1,0 +1,1 @@
+export const envApiKey: string = import.meta.env.VITE_APP_API_KEY;
